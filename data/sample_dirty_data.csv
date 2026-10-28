@@ -1,0 +1,11 @@
+  Customer ID  , Full Name , Email Address ,Phone Number,Order Date, Product Name ,Price (USD), Status , Notes 
+CUST001,John Doe,John.Doe@Gmail.com,+1 (555) 019-2834,2024/01/15,Wireless Mouse,$120.50,Delivered,First order
+CUST002, Jane Smith ,jane_smith@yahoo.com,555-019-2835,15-01-2024, Gaming Laptop ,"$1,250.00",Delivered,Expedited
+CUST001,John Doe,John.Doe@Gmail.com,+1 (555) 019-2834,2024/01/15,Wireless Mouse,$120.50,Delivered,First order
+CUST003, Robert Johnson ,,555-019-2836,2024-02-01,USB-C Cable,$45.00,,Needs invoice
+CUST004,Alice Brown,alice.b@company.org,555.019.2837,02/10/2024,Mechanical Keyboard,$89.99,Pending,
+CUST005,,carol.white@domain.com,555-019-2838,2024-02-14,,$0.00,Shipped,Gift wrap requested
+CUST002, Jane Smith ,jane_smith@yahoo.com,555-019-2835,15-01-2024, Gaming Laptop ,"$1,250.00",Delivered,Expedited
+CUST006,David Wilson,david.w@test.com,555-019-2839,2024-03-01,4K Monitor,$350.00,Delivered,Corporate discount
+CUST007,Emma Davis,emma.davis@email.com,,2024-03-05,Mousepad,$15.50,Shipped,
+CUST008,Frank Miller,frank.m@gmail.com,555-019-2841,2024/03/10,Noise Cancelling Headset,$210.00,Cancelled,Customer request
